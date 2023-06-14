@@ -7,8 +7,10 @@
 - 💞️ I’m looking to collaborate on DevOps projects to improve my skills.
 - 📫 How to reach me at augustineozor@gmail.com or linkedin: linkedin.com/in/augustine-tetteh-ozor-ma-lis-168ba656
 
-## Languages and Tools:
-![jenkins](https://github.com/AustinOzor/AustinOzor/assets/99667583/3e02fdc5-9e73-4116-8ffe-47c9b31d36d5)![image](https://github.com/AustinOzor/AustinOzor/assets/99667583/0a42ff42-8bf5-41e0-ac33-7f528d6b8371)
+## Tools:##
+![image](https://github.com/AustinOzor/AustinOzor/assets/99667583/aa2b843a-283c-4cc8-9a1e-6d03fa4973c3)
+
+
 
 
 

@@ -2,8 +2,8 @@
 ![LinkedIn Banner](https://github.com/AustinOzor/AustinOzor/assets/99667583/91f1d50c-f836-411e-9108-ca9bd71e90c2)
 
 - 👋 Hi, I’m @AustinOzor
-- 💻 I’m a DevOps Engineering.
-- 🌱 Tools: Linux, Git, Jenkins, Ansible, Docker, Terraform, Kubernetes, SonarQube,Nexus.
+- 💻 I’m a DevOps Engineer.
+- 🌱 Tools: Linux, Git, Jenkins, Ansible, Docker, Terraform, Kubernetes, SonarQube, Nexus, AWS. 
 - 💞️ I’m looking to collaborate on DevOps projects to improve my skills.
 - 📫 How to reach me at augustineozor@gmail.com or linkedin: linkedin.com/in/augustine-tetteh-ozor-ma-lis-168ba656
 

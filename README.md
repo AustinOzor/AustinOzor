@@ -32,8 +32,8 @@
 
 ## Check My Blogs
 
-[![Follow on Medium](https://img.shields.io/badge/Follow%20me-Medium-black?logo=medium)](https://medium.com/@augustineozor)
-[![Follow on DEV](https://img.shields.io/badge/Follow%20me-DEV.to-black?logo=dev.to)](https://dev.to/austinozor)
+[![Follow on Medium](https://img.shields.io/badge/Follow%20me-Medium-00ab6c?logo=medium&logoColor=white)](https://medium.com/@augustineozor)
+[![Follow on DEV.to](https://img.shields.io/badge/Follow%20me-DEV.to-0a0a0a?logo=dev.to&logoColor=white)](https://dev.to/austinozor)
 
 ---
 

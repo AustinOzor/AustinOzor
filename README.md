@@ -1,5 +1,5 @@
 
-![ChatGPT Image May 19, 2025, 04_38_55 PM](https://github.com/user-attachments/assets/55185c59-add2-448b-82b5-4a12721681c0)
+![ChatGPT Image May 19, 2025, 04_38_55 PM](https://github.com/user-attachments/assets/d35e13df-ac42-43f3-b803-af6938413747)
 
 - 👋 Hi, I’m @AustinOzor
 - 💻 I’m a Cloud and DevOps Engineer.  

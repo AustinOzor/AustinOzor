@@ -30,6 +30,12 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
+
+## Check My Blogs
+
+[![Follow on Medium](https://img.shields.io/badge/Follow%20me-Medium-black?logo=medium)](https://medium.com/@augustineozor)
+
+---
 ## Projects ##
 1. https://medium.com/@augustineozor/investigating-a-cloud-security-breach-on-aws-e2-instance-e3ea722b1905
    

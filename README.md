@@ -1,5 +1,5 @@
+![Uploading ChatGPT Image May 19, 2025, 04_38_55 PM.png…]()
 
-![LinkedIn Banner](https://github.com/AustinOzor/AustinOzor/assets/99667583/91f1d50c-f836-411e-9108-ca9bd71e90c2)
 
 - 👋 Hi, I’m @AustinOzor
 - 💻 I’m a Cloud and DevOps Engineer.  

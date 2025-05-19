@@ -34,8 +34,10 @@
 ## Check My Blogs
 
 [![Follow on Medium](https://img.shields.io/badge/Follow%20me-Medium-black?logo=medium)](https://medium.com/@augustineozor)
+[![Follow on DEV](https://img.shields.io/badge/Follow%20me-DEV.to-black?logo=dev.to)](https://dev.to/austinozor)
 
 ---
+
 ## Projects ##
 1. https://medium.com/@augustineozor/investigating-a-cloud-security-breach-on-aws-e2-instance-e3ea722b1905
    
